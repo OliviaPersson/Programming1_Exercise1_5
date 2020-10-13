@@ -38,6 +38,7 @@ namespace Programming1_Exercise1_5
 
             avstånd = Math.Sqrt(Math.Pow(xKoordinatenP2 - xKoordinatenP1, 2) + Math.Pow(yKoordinatenP2 - yKoordinatenP1, 2) * 1.0);
 
+
             Console.WriteLine($"Avståndet är: {avstånd}");
             Console.ReadKey();
 
